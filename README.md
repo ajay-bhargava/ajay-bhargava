@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👨🏾‍
+-----
+
+I'm a mix of wet-lab and computational AI/ML powered multi-disciplinary scientist. I keep some of my code here for you to make your imaging, data acquisition, and analysis life a bit easier.  
+
 
 <!--
 **ajay-bhargava/ajay-bhargava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
