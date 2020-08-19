@@ -4,7 +4,7 @@
 I'm equal parts wet-lab biochemist/imaging-scientist and computational AI/ML code monkey multi-disciplinary scientist hybrid guy.  
 I keep some of my code here for you to make your imaging, data acquisition, and analysis life a bit easier.  
 
-- 🔭 I’m currently working on ...my Thesis (PhD, King's College 2020) 
+- 🔭 I’m currently working on ... my Thesis (PhD, King's College 2020) 
 
 <!--
 **ajay-bhargava/ajay-bhargava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
