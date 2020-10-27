@@ -1,7 +1,7 @@
 ### Hello! 🥼🔬🧬🧪👨🏾‍🔬🧪🧫
 -----
 
-I'm equal parts wet-lab biochemist/imaging-scientist, and computational AI/ML code monkey. 
+I'm equal parts wet-lab biochemist/imaging-scientist, and computational AI/ML code monkey.  
 In total I'm this multi-disciplinary scientist hybrid guy.  
 I keep some of my code here for you to make your imaging, data acquisition, and analysis life a bit easier. 
 
