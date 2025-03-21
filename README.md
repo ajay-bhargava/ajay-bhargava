@@ -25,7 +25,7 @@
   Automating cost structures and quoting for contract research services.
 </details>
 
-## 🚀 What’s Live & In Progress  
+## 🚀 What’s Live
 
 <details>
   <summary>🛠 <strong>AI-powered Scientific Storefronts</strong></summary>
