@@ -1,45 +1,21 @@
-# Hello! 🥼🔬💻🚀🧬🧪🧫  
+```
+  █████╗      ██╗ █████╗ ██╗   ██╗    ██████╗ ██╗  ██╗ █████╗ ██████╗  ██████╗  █████╗ ██╗   ██╗ █████╗ 
+ ██╔══██╗     ██║██╔══██╗╚██╗ ██╔╝    ██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔════╝ ██╔══██╗██║   ██║██╔══██╗
+ ███████║     ██║███████║ ╚████╔╝     ██████╔╝███████║███████║██████╔╝██║  ███╗███████║██║   ██║███████║
+ ██╔══██║██   ██║██╔══██║  ╚██╔╝      ██╔══██╗██╔══██║██╔══██║██╔══██╗██║   ██║██╔══██║╚██╗ ██╔╝██╔══██║
+ ██║  ██║╚█████╔╝██║  ██║   ██║       ██████╔╝██║  ██║██║  ██║██║  ██║╚██████╔╝██║  ██║ ╚████╔╝ ██║  ██║
+ ╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝       ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝
+```
 
-> [!IMPORTANT]
-> I ship AI-driven scientific software, workflow automation, and data systems. Whether designing drug discovery pipelines or architecting scalable SaaS solutions, I bring ideas to production with a strong engineering mindset.  
+**CTO::VISION_SYSTEMS** | `distributed_neural_inference • edge_to_cloud_ML • production_scale`
 
-## 🛠 What I Build  
+---
 
-<details>
-  <summary>🔬 <strong>AI & Scientific Software</strong></summary>
-  Developing automated imaging, data acquisition, and analysis pipelines for scientific research.
-</details>
+**BUILT:**
+• **Real-time computer vision pipeline** - 200+ concurrent helmet camera streams with FastVLM-7B + Moondream2 inference on Modal GPU clusters, <500ms latency
+• **Auto-scaling RTMP bridge infrastructure** - Multi-tenant streaming architecture using AWS ECS Fargate + Kinesis Video Streams, 50GB/h throughput
+• **Neural control interface** - Live AI model steering with WebSocket-based prompting system and real-time result streaming via BAML integration
 
-<details>
-  <summary>💻 <strong>Full-Stack Engineering</strong></summary>
-  Building scalable, database-driven applications using Next.js, Supabase, and Zustand.
-</details>
+---
 
-<details>
-  <summary>⚙️ <strong>Workflow Automation</strong></summary>
-  Creating interactive UIs and SaaS tools to streamline scientific and business processes.
-</details>
-
-<details>
-  <summary>📊 <strong>CRO Tech & Pricing Models</strong></summary>
-  Automating cost structures and quoting for contract research services.
-</details>
-
-## 🚀 What’s Live
-
-<details>
-  <summary>🛠 <strong>AI-powered Scientific Storefronts</strong></summary>
-  Simplifying experiment setup with dynamic UI & automation.
-</details>
-
-<details>
-  <summary>🔗 <strong>React Flow + Database-driven UIs</strong></summary>
-  Enabling real-time workflow rendering and interactive customization.
-</details>
-
-<details>
-  <summary>🤖 <strong>AI-driven Price Search Agents</strong></summary>
-  Automating vendor-aware cost analysis for better decision-making.
-</details>
-
-I ship code that drives scientific impact—if you’re into AI, structured workflows, or engineering in science, let’s connect! 🚀  
+**STACK**: `PyTorch • Modal • AWS • Terraform • TypeScript`
